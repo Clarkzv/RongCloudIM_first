@@ -1,0 +1,8 @@
+rootProject.name = "My Application"
+include ':app'
+include ':CallKit'
+include ':CallLib'
+include ':IMKit'
+include ':IMLib'
+include ':RCSticker'
+include ':Sight'
